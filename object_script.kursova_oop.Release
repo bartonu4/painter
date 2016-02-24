@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\handler.o
+./release\shape.o
+./release\scene.o
+./release\zigzag.o
+./release\sector.o
+./release\moc_mainwindow.o
+./release\moc_handler.o
+./release\moc_shape.o
+./release\moc_scene.o
+./release\qrc_images.o
+);
